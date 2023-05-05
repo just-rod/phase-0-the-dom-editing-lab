@@ -105,7 +105,7 @@ Just to speed things up a bit, paste the following code into `index.html`:
     <title>Introduction to the DOM Lab</title>
   </head>
   <body>
-    <!--All our work for this lesson will go here-->
+    <!--All our work for this lesson will go here--> 
   </body>
 </html>
 ```
